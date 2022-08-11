@@ -10,7 +10,7 @@ public class OperacionesMat {
 		Operaciones opt = new Operaciones();
 		
 		int total = opt.sumar(50, 40);
-		System.out.println("Resultado: "+total);
+		System.out.println("El Resultado es: "+total);
 
 	}
 
